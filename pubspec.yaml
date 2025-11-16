@@ -1,0 +1,18 @@
+name: liver_svs_detector
+description: Flutter UI for SVS detector
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  file_picker: ^5.2.5
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
